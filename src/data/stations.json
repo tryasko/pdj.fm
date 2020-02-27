@@ -1,0 +1,140 @@
+[
+  {
+    "name": "TOP 100",
+    "desc": "The Best Of The Best! TOP 100 — так звучит PROMODJ!",
+    "logo": "https://cdn.promodj.com/afs/e15f4989049ea6cb7b5e1a853f69b3dd11:resize:150x150x0.8:fillin:tttttT:1a135a",
+    "stream": "https://radio.promodj.com/top100"
+  },
+  {
+    "name": "Channel 5",
+    "desc": "Самое популярное из мейнстрима электронной музыки",
+    "logo": "https://cdn.promodj.com/afs/1941f4d0a6a9047d1036b0cc868071d511:resize:150x150x0.8:fillin:tttttT:01aecb",
+    "stream": "https://radio.promodj.com/channel5"
+  },
+  {
+    "name": "Trap",
+    "desc": "Trap Tower — Trap Power!",
+    "logo": "https://cdn.promodj.com/afs/a2d0cea01c98edf568d132fdfd2cd66a12:resize:150x150x0.8:fillin:tttttT:354b07",
+    "stream": "https://radio.promodj.com/trap"
+  },
+  {
+    "name": "Klubb",
+    "desc": "Вход по впискам ;)",
+    "logo": "https://cdn.promodj.com/afs/d47bdf17db72bbba85eb851a84c4282b11:resize:150x150x0.8:fillin:tttttT:85dd87",
+    "stream": "https://radio.promodj.com/klubb"
+  },
+  {
+    "name": "Dubstep",
+    "desc": "Всё лучше под дабстеп",
+    "logo": "https://cdn.promodj.com/afs/490c08bb86eb9d65ca4df938570bed2511:resize:150x150x0.8:fillin:tttttT:e6355c",
+    "stream": "https://radio.promodj.com/dubstep"
+  },
+  {
+    "name": "Nu",
+    "desc": "N....U....",
+    "logo": "https://cdn.promodj.com/afs/d5dd2bc1bf29b74d2f3017997f53927711:resize:150x150x0.8:fillin:tttttT:0b331d",
+    "stream": "https://radio.promodj.com/nu"
+  },
+  {
+    "name": "Too Nu",
+    "desc": "N....U.... too",
+    "logo": "https://cdn.promodj.com/afs/110e65f1574f8a8220d34cc92b69d2d211:resize:150x150x0.8:fillin:tttttT:0ffc18",
+    "stream": "https://radio.promodj.com/toonu"
+  },
+  {
+    "name": "Yo",
+    "desc": "Хип-хап донт стап!",
+    "logo": "https://cdn.promodj.com/afs/978c3bb0e94e1828b8dc2824790db71011:resize:150x150x0.8:fillin:tttttT:500b56",
+    "stream": "https://radio.promodj.com/yo"
+  },
+  {
+    "name": "Full Moon",
+    "desc": "Trance всегда, Trance везде. Trance в любое время суток",
+    "logo": "https://cdn.promodj.com/afs/11a5f0be108d5f48084aac34ec54da9f11:resize:150x150x0.8:fillin:tttttT:8f3d22",
+    "stream": "https://radio.promodj.com/fullmoon"
+  },
+  {
+    "name": "Vata",
+    "desc": "Этот канал компенсирует постоянный недостаток ваты в повседневной жизни",
+    "logo": "https://cdn.promodj.com/afs/6f9a484b4737e518a3b0ba3d12abc58811:resize:150x150x0.8:fillin:tttttT:e7cb27",
+    "stream": "https://radio.promodj.com/vata"
+  },
+  {
+    "name": "300kmh",
+    "desc": "Энергетика 300 километров в час в любое время суток",
+    "logo": "https://cdn.promodj.com/afs/891bc891a7d72dbacded87bb5827dcfa11:resize:150x150x0.8:fillin:tttttT:9667ee",
+    "stream": "https://radio.promodj.com/300kmh"
+  },
+  {
+    "name": "186mph",
+    "desc": "Энергетика 186 миль в час в любое время суток",
+    "logo": "https://cdn.promodj.com/afs/9498d197021fa209711560761602840411:resize:150x150x0.8:fillin:tttttT:a6a5a6",
+    "stream": "https://radio.promodj.com/186mph"
+  },
+  {
+    "name": "Deep",
+    "desc": "Глубоко и спокойно",
+    "logo": "https://cdn.promodj.com/afs/7aed1296c1d5dca18fc994264d0c479511:resize:150x150x0.8:fillin:tttttT:936dfa",
+    "stream": "https://radio.promodj.com/deep"
+  },
+  {
+    "name": "Too Deep",
+    "desc": "Глубоко и спокойно... тоже",
+    "logo": "https://cdn.promodj.com/afs/76dc639fd7d052d023c2d7fd53d98bd611:resize:150x150x0.8:fillin:tttttT:8dd589",
+    "stream": "https://radio.promodj.com/toodeep"
+  },
+  {
+    "name": "Mini",
+    "desc": "Tekk NO!",
+    "logo": "https://cdn.promodj.com/afs/a911f9d48583caebbe650ca9d91eb48911:resize:150x150x0.8:fillin:tttttT:a6eac6",
+    "stream": "https://radio.promodj.com/mini"
+  },
+  {
+    "name": "Pop",
+    "desc": "Let me see You Pop!",
+    "logo": "https://cdn.promodj.com/afs/166671844627d59223e8d061fbce7f0611:resize:150x150x0.8:fillin:tttttT:56fbfa",
+    "stream": "https://radio.promodj.com/pop"
+  },
+  {
+    "name": "Old-School",
+    "desc": "То самое доброе, старое, вечное",
+    "logo": "https://cdn.promodj.com/afs/a8388cf78e4aae0fcac5c6e0b90f04d211:resize:150x150x0.8:fillin:tttttT:675b8c",
+    "stream": "https://radio.promodj.com/oldschool"
+  },
+  {
+    "name": "Strange",
+    "desc": "Don`t be a stranger!",
+    "logo": "https://cdn.promodj.com/afs/20cfcd1cf8094eaf557e79a03224337111:resize:150x150x0.8:fillin:tttttT:888084",
+    "stream": "https://radio.promodj.com/strange"
+  },
+  {
+    "name": "Brainfck",
+    "desc": "Brainfck — это полное отсутствие компромиссов!",
+    "logo": "https://cdn.promodj.com/afs/12b544d567ed8c3c2dda17117c59bb4c11:resize:150x150x0.8:fillin:tttttT:2c6b44",
+    "stream": "https://radio.promodj.com/brainfck"
+  },
+  {
+    "name": "Bobina",
+    "desc": "Russian Electronic Music",
+    "logo": "https://cdn.promodj.com/afs/45fb1477090f9dac8e789dfed0375b1e11:resize:150x150x0.8:fillin:tttttT:fddaf0",
+    "stream": "https://radio.promodj.com/bobina"
+  },
+  {
+    "name": "DJ GROOVE",
+    "desc": "Грув для всех, танцы для каждого ;)",
+    "logo": "https://cdn.promodj.com/afs/95ca015a38237d0846230e44a2864f8811:resize:150x150x0.8:fillin:tttttT:541e4f",
+    "stream": "https://radio.promodj.com/groove"
+  },
+  {
+    "name": "Mixadance FM",
+    "desc": "Только лучшие заслуживают Mixadance",
+    "logo": "https://cdn.promodj.com/afs/bd6895687bf82155b1ddb0e6d90ab30b11:resize:150x150x0.8:fillin:tttttT:372fc6",
+    "stream": "https://radio.promodj.com/mixadancefm"
+  },
+  {
+    "name": "GarageFM",
+    "desc": "Старый добрый!",
+    "logo": "https://cdn.promodj.com/afs/ffc681ebe78519154cb4c0f2ad90741811:resize:150x150x0.8:fillin:tttttT:d1e889",
+    "stream": "https://radio.promodj.com/garagefm"
+  }
+]

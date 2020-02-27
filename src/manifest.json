@@ -1,0 +1,22 @@
+{
+  "short_name": "PDJ FM",
+  "name": "PromoDJ FM",
+  "icons": [
+    {
+      "src": "./icons/32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "./icons/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/pdj.fm/index.html",
+  "scope": "/pdj.fm/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#3367D6"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "repository": "git@github.com:tryasko/pwa.git",
+  "author": "tryasko",
+  "license": "MIT",
+  "dependencies": {
+    "preact": "^8.5.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-transform-react-jsx": "^7.3.0",
+    "babel-loader": "^8.0.6",
+    "clean-webpack-plugin": "^3.0.0",
+    "copy-webpack-plugin": "^5.0.4",
+    "css-loader": "^3.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "node-json-minify": "^1.0.0",
+    "prettier": "1.18.2",
+    "style-loader": "^1.0.0",
+    "uglify-es": "^3.3.9",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2",
+    "webpack-merge": "^4.2.1"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --config ./webpack/development.js --hot --open",
+    "build": "webpack --config ./webpack/production.js"
+  },
+  "babel": {
+    "plugins": [
+      [
+        "@babel/plugin-transform-react-jsx",
+        {
+          "pragma": "Preact.h",
+          "pragmaFrag": "Preact.Fragment"
+        }
+      ]
+    ]
+  },
+  "prettier": {
+    "printWidth": 120,
+    "endOfLine": "lf"
+  }
+}
