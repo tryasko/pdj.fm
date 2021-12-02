@@ -1,3 +1,7 @@
+#container {
+ background-color: red;
+}
+
 .station-logo {
   position: relative;
   overflow: hidden;
