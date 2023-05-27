@@ -1,4 +1,4 @@
-# pwa 1
+# pwa
 
 Test Progressive Web Application
 
